@@ -1,3 +1,5 @@
+42Tokyo BSQ
+
 Author: yusyamas (42Tokyo C Piscine 2022/10 Fail)
 
 Makefile: 
